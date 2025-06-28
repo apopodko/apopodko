@@ -4,25 +4,11 @@
 
 I'm Alexey Popodko — a technically-minded professional with a background in physics, hands-on coding experience, and a strong interest in data, research, and machine learning
 
-I'm currently working as a medical physicist at a hospital in Moscow, where I’m involved in radiation treatment planning, quality assurance for linear accelerators, and integrating modern research into clinical practice. My work also includes research activities — from publishing articles to exploring new methods — where I use Python for modeling, data analysis, and automation.
+I'm currently working as a medical physicist at a hospital in Moscow, where I’m involved in radiation treatment planning, quality assurance for linear accelerators, and integrating modern research into clinical practice. My work also includes research activities — from publishing articles to exploring new methods — where I use Python for modeling, data analysis, and automation. I recently graduated from Yandex Practicum’s Data Science training program, where I developed a variety of data science projects. I'm always open to learning, collaborating, and contributing to meaningful challenges.
 
-
-### 💡 Interests & Focus Areas
-I enjoy working on problems at the intersection of science and technology. My current interests include:
-
-Data analysis and modeling using Python and SQL
-
-Machine learning (classification, NLP, optimization)
-
-Working with complex signals and data (EEG, MRI, medical tech)
-
-Exploring real-world applications of ML in healthcare and science
-
-### 📚 Background in Research & Education
-With several years of research experience, I’ve contributed to projects involving brain-computer interfaces, EEG signal processing, and applied physics. My work has been published and presented at conferences. I also participate in lectures and technical training.
+### 📚 Background in Research
+With 6+ years of research experience, I’ve contributed to projects involving brain-computer interfaces, EEG signal processing, and applied medical physics and radiotherapy. These works have been published and presented at scientific conferences.  I also participate in lectures and technical training.
 
 
 ### 📂 On This GitHub
 Here you'll find a mix of hands-on projects, experiments, and course work — including ML models, EDA notebooks, and tools I’ve built while studying and exploring data science and machine learning techniques.
-
-Currently graduated from Yandex Practicum training courses where I was developing variety of Data Science projects. Always open to learning, collaborating, and contributing to meaningful challenges.

@@ -4,7 +4,9 @@
 
 I'm Alexey Popodko — a technically-minded professional with a background in physics, hands-on coding experience, and a strong interest in data, research, and machine learning
 
-I'm currently working as a medical physicist at a hospital in Moscow, where I’m involved in radiation treatment planning, quality assurance for linear accelerators, and integrating modern research into clinical practice. My work also includes research activities — from publishing articles to exploring new methods — where I use Python for modeling, data analysis, and automation. I recently graduated from Yandex Practicum’s Data Science training program, where I developed a variety of data science projects. I'm always open to learning, collaborating, and contributing to meaningful challenges.
+I'm currently working as a medical physicist at a hospital in Moscow, where I’m involved in radiation treatment planning, quality assurance for linear accelerators, and integrating modern research into clinical practice. My work also includes research activities — from publishing articles to exploring new methods — where I use Python for modeling, data analysis, and automation. 
+
+I recently graduated from Yandex Practicum’s Data Science training program, where I developed a variety of data science projects. I'm always open to learning, collaborating, and contributing to meaningful challenges.
 
 ### 📚 Background in Research
 With 6+ years of research experience, I’ve contributed to projects involving brain-computer interfaces, EEG signal processing, and applied medical physics and radiotherapy. These works have been published and presented at scientific conferences.  I also participate in lectures and technical training.

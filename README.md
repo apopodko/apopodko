@@ -8,14 +8,22 @@ I'm currently working as a medical physicist at a hospital in Moscow, where I’
 
 Recently graduated from Yandex Practicum’s Data Science training program, where I developed a variety of data science projects. I'm always open to learning, collaborating, and contributing to meaningful challenges.
 
-### 🛠️ Tools & Technologies
-- Languages: Python, SQL, MATLAB
-
-- ML Stack: pandas, NumPy, Scikit-Learn, CatBoost, LightGBM, PyTorch, Transformers
-
-- Other Tools: NLTK, Optuna, HyperOpt, PySpark, Git
-
+### Key Skills 
+- Statistics & Analysis: EDA, Hypothesis Testing, Bootstrap, Time Series Analysis, Clusterization, Data Visualization
+- Machine Learning & Modeling: Linear / Logistic Regression, Decision Trees, Support Vector Machines, Ensemble Methods, Gradient Boosting, Hyperparamenter OPtimization, Cross-Validation, Model Calibration, Stacking
+- Natural Language Processing  
+- Computer Vision & Deep Learning: CNN, FCNN, RNN, Transformers
 - Experience using code in clinical research: signal and image processing, beam modeling, statistics and EDA for clinical research, QA data processing
+
+### Key Libraries & Tools
+
+- **Languages:** Python, SQL  
+- **Data Processing:** Pandas, NumPy, PySpark, SQLAlchemy  
+- **Visualization:** Matplotlib, Seaborn, Histogrammar  
+- **Machine Learning:** Scikit-learn, LightGBM, CatBoost, Optuna, HyperOpt
+- **Statistics & Analysis:** SciPy, Geopy, Phik, SHAP
+- **NLP:** BERT, Transformers, NLTK, SpaCy
+- **Deep Learning & CV:** PyTorch, TensorFlow, Transformers, Keras, CUDA, Prophet, CLIP
 
 ### 📚 Background in Research
 With 6+ years of research experience, I’ve contributed to projects involving brain-computer interfaces, EEG signal processing, and applied medical physics / radiotherapy. These works have been published and presented at scientific conferences.  I also participate in lectures and technical training.

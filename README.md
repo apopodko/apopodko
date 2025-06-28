@@ -15,7 +15,7 @@ Recently graduated from Yandex Practicum’s Data Science training program, wher
 
 - Other Tools: NLTK, Optuna, HyperOpt, PySpark, Git
 
-- Experience using code in clinical research: beam modeling, treatment planning automation, QA data processing
+- Experience using code in clinical research: signal and image processing, beam modeling, statistics and EDA for clinical research, QA data processing
 
 ### 📚 Background in Research
 With 6+ years of research experience, I’ve contributed to projects involving brain-computer interfaces, EEG signal processing, and applied medical physics / radiotherapy. These works have been published and presented at scientific conferences.  I also participate in lectures and technical training.

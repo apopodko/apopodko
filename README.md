@@ -1,10 +1,10 @@
 ### Hi there 👋
 
+<p> <a href="https://www.linkedin.com/in/alexeypopodko"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.researchgate.net/profile/Alexey-Popodko"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white" height=25></a> <a href="https://scholar.google.com/citations?user=PHGEhY4AAAAJ&hl"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" height=25></a></p>
+
 I'm Alexey Popodko — a technically-minded professional with a background in physics, hands-on coding experience, and a strong interest in data, research, and machine learning
 
 I'm currently working as a medical physicist at a hospital in Moscow, where I’m involved in radiation treatment planning, quality assurance for linear accelerators, and integrating modern research into clinical practice. My work also includes research activities — from publishing articles to exploring new methods — where I use Python for modeling, data analysis, and automation.
-
-<p> <a href="https://www.linkedin.com/in/alexeypopodko"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.researchgate.net/profile/Alexey-Popodko"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white" height=25></a> <a href="https://scholar.google.com/citations?user=PHGEhY4AAAAJ&hl"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" height=25></a></p>
 
 
 ### 💡 Interests & Focus Areas

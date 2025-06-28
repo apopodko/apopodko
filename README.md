@@ -8,6 +8,9 @@ I'm currently working as a medical physicist at a hospital in Moscow, where I’
 
 Recently graduated from Yandex Practicum’s Data Science training program, where I developed a variety of data science projects. I'm always open to learning, collaborating, and contributing to meaningful challenges.
 
+### Background in Research
+With 6+ years of research experience, I’ve contributed to projects involving brain-computer interfaces, EEG signal processing, and applied medical physics / radiotherapy. These works have been published and presented at scientific conferences.  I also participate in lectures and technical training.
+
 ### Key Skills 
 - Statistics & Analysis: EDA, Hypothesis Testing, Bootstrap, Time Series Analysis, Clusterization, Data Visualization
 - Machine Learning & Modeling: Linear / Logistic Regression, Decision Trees, Support Vector Machines, Ensemble Methods, Gradient Boosting, Hyperparamenter OPtimization, Cross-Validation, Model Calibration, Stacking
@@ -25,9 +28,5 @@ Recently graduated from Yandex Practicum’s Data Science training program, wher
 - **NLP:** BERT, Transformers, NLTK, SpaCy
 - **Deep Learning & CV:** PyTorch, TensorFlow, Transformers, Keras, CUDA, Prophet, CLIP
 
-### 📚 Background in Research
-With 6+ years of research experience, I’ve contributed to projects involving brain-computer interfaces, EEG signal processing, and applied medical physics / radiotherapy. These works have been published and presented at scientific conferences.  I also participate in lectures and technical training.
-
-
-### 📂 On This GitHub
+### On This GitHub
 Here you'll find a mix of hands-on projects, experiments, and course work — including ML models, EDA notebooks, and tools I’ve built while studying and exploring data science and machine learning techniques.

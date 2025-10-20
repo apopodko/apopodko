@@ -26,7 +26,8 @@ With 6+ years of scientific research experience, I’ve contributed to projects 
 - **Machine Learning:** Scikit-learn, LightGBM, CatBoost, Optuna, HyperOpt
 - **Statistics & Analysis:** SciPy, Geopy, Phik, SHAP
 - **NLP:** BERT, Transformers, NLTK, SpaCy
-- **Deep Learning & CV:** PyTorch, TensorFlow, Transformers, Keras, CUDA, Prophet, CLIP
+- **DL:** PyTorch, TensorFlow, Transformers, Keras, CUDA, Prophet, CLIP, BERT, FAISS
+- **Clustering:** K-means, HAC, HDBSCAN
 - **Deploy:** Streamlit, Docker
 
 ### On This GitHub

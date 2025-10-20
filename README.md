@@ -27,6 +27,7 @@ With 6+ years of scientific research experience, I’ve contributed to projects 
 - **Statistics & Analysis:** SciPy, Geopy, Phik, SHAP
 - **NLP:** BERT, Transformers, NLTK, SpaCy
 - **Deep Learning & CV:** PyTorch, TensorFlow, Transformers, Keras, CUDA, Prophet, CLIP
+- **Deploy:** Streamlit, Docker
 
 ### On This GitHub
 Here you'll find a mix of hands-on projects, experiments, and course work — including ML models, EDA notebooks, and tools I’ve built while studying and exploring data science and machine learning techniques.
